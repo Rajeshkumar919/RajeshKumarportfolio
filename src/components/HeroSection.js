@@ -4,7 +4,7 @@
 // method 3: default return component
 
 // method 2:
-import profile from '../assets/images/rajesh.jpg';
+import profile from '../assets/rajesh.jpg';
 export const HeroSection = () => {
     return(
         <>
