@@ -15,7 +15,7 @@ export default function Header() {
         <>
             <Navbar expand="lg" className="bg-body-tertiary">
                 <Container fluid>
-                    <Navbar.Brand href="#">Zoya</Navbar.Brand>
+                    <Navbar.Brand href="#">Rajesh Kumar</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav
