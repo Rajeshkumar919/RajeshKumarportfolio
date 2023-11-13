@@ -1,6 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import product from '../assets/images/img.png';
+import product from '../assets/rajesh.png';
 export default function Projects() {
     return(
         <>
